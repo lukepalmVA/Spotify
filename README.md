@@ -14,4 +14,4 @@ Get a CSV file of your most streamed artists and songs from your personal data
   creat a CSV file. it will do the same to your top songs and the number of times you streamed them. The CSV files should be "top_songs.csv" and "top_artists.csv"
  ## Contact 
  - you can email me at lukepalmieri4@gmail.com this is a very simple piece of code but has people just looking to get their spotify data into a usuable form/excel environment 
- so ill answer any question
+ in mind, so ill answer any questions you have
