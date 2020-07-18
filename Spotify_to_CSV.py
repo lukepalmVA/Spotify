@@ -1,5 +1,3 @@
-import time
-tic = time.perf_counter()
 import json
 import numpy as np
 import pandas as pd
@@ -29,8 +27,3 @@ def songs():
         df_top_songs.to_csv('top_songs.csv')
 songs()
 artists()
-
-
-
-toc = time.perf_counter()
-print(f" {toc - tic:0.4f} seconds")
